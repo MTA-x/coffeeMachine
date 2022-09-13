@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently student at **CYDEO**
 
-- 🌱 I’m currently learning **JAVA and JAVA Testing Tools**
-
-- 🤝 I’m looking for help with **JAVA SDET**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MTA-x?tab=repositories](https://github.com/MTA-x?tab=repositories)
 
 - 📫 How to reach me **mtakyzl0@gmail.com**
